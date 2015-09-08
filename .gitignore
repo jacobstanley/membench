@@ -1,0 +1,6 @@
+*.ll
+*.o
+*.s
+*.hi
+*.core
+bench
