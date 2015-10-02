@@ -1,0 +1,9 @@
+./bench
+2000MB of setup         in 0.711s, at: 2811.7MB/s
+
+C memory throughput benchmarks:
+2000MB of bytes written in 0.667s, at: 2999.3MB/s
+2000MB of bytes read    in 1.215s, at: 1646.1MB/s
+
+Haskell memory throughput benchmarks:
+2000MB of bytes read    in 2.387s, at: 837.7MB/s
